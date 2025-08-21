@@ -1,2 +1,2 @@
 # Enclosure
-Enclosure for electronic devices
+Enclosure for ceiling mounted smart IoT sensor hub 
